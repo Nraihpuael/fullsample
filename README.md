@@ -6,7 +6,7 @@ This project includes a backend built with Spring Boot and a frontend built with
 
 ## Requirements
 
-- ### âš›ï¸ FrontEnd:
+- ### FrontEnd:
 
 - Node.js: v18.17
 - Vite: v5.3.3
@@ -16,7 +16,7 @@ This project includes a backend built with Spring Boot and a frontend built with
 - Axios
 - Zustand
 
-- ### âš™ï¸ Backend:
+- ### Backend:
 
 - Java: 17
 - Maven: v3.8+
@@ -53,7 +53,9 @@ This project includes a backend built with Spring Boot and a frontend built with
 
 
 frontend/
+
 ├── public/
+
 │   ├── vite.svg
 │   └── ...
 ├── src/
