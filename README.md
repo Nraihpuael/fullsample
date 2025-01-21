@@ -104,7 +104,7 @@ This project includes a backend built with Spring Boot and a frontend built with
 	│    │   │           └── backend
 	│    │   │               ├── ServerApplication
 	│    │   │               ├── application
-	│    │	 │				 │   ├── dto  	    
+	│    │	 │		 │   ├── dto  	    
 	│    │   │               │   ├── mapper     
 	│    │   │               │   └── service   
 	│    │   │               ├── domanin
