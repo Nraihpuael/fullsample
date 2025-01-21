@@ -52,46 +52,46 @@ This project includes a backend built with Spring Boot and a frontend built with
 
 
 
-frontend/
-├── public/
-│   ├── vite.svg
-│   └── ...
-├── src/
-│   ├── assets/
-|   |   |── logo
-│   │   ├── images/
-│   ├── components/
-│   │   ├── Button.jsx
-│   │   └── ...
-│   ├── hooks/
-│   ├── lib/
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   └── ...
-│   ├── router/
-│   │   ├── AppRouter.jsx
-│   │   └── ...
-│   ├── services/
-│   ├── store/
-│   ├── styles/
-│   │   ├── base/
-│   │       │   ├── reset.css
-│   │       │   ├── variables.css
-│   │       │   └── ...
-│   │       ├── components/
-│   │       │   ├── Button.css
-│   │       │   └── ...
-│   │       ├── pages/
-│   │       │   ├── Home.css
-│   │       │   └── ...
-│   │       └── index.css
-│   ├── utils/
-│   ├── validations/
-│   └── main.jsx
-├── .gitignore
-├── Dockerfile
-├── package.json
-└── vite.config.js
+	frontend/
+	├── public/
+	│   ├── vite.svg
+	│   └── ...
+	├── src/
+	│   ├── assets/
+	|   |   |── logo
+	│   │   ├── images/
+	│   ├── components/
+	│   │   ├── Button.jsx
+	│   │   └── ...
+	│   ├── hooks/
+	│   ├── lib/
+	│   ├── pages/
+	│   │   ├── Home.jsx
+	│   │   └── ...
+	│   ├── router/
+	│   │   ├── AppRouter.jsx
+	│   │   └── ...
+	│   ├── services/
+	│   ├── store/
+	│   ├── styles/
+	│   │   ├── base/
+	│   │       │   ├── reset.css
+	│   │       │   ├── variables.css
+	│   │       │   └── ...
+	│   │       ├── components/
+	│   │       │   ├── Button.css
+	│   │       │   └── ...
+	│   │       ├── pages/
+	│   │       │   ├── Home.css
+	│   │       │   └── ...
+	│   │       └── index.css
+	│   ├── utils/
+	│   ├── validations/
+	│   └── main.jsx
+	├── .gitignore
+	├── Dockerfile
+	├── package.json
+	└── vite.config.js
 
 
 
