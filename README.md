@@ -95,37 +95,37 @@ This project includes a backend built with Spring Boot and a frontend built with
 
 
 
-backend/
-├── src/
-│    ├── main/
-│    │   ├── java/
-│    │   │   └── com
-│    │   │       └── ensolvers
-│    │   │           └── backend
-│    │   │               ├── ServerApplication
-│    │   │               ├── application
-│    │	 │				 │   ├── dto  	    
-│    │   │               │   ├── mapper     
-│    │   │               │   └── service   
-│    │   │               ├── domanin
-│    │   │               │   ├── entity 	
-│    │   │               ├── infrastructure
-│    │   │               │   ├── config 		
-│    │   │               │   ├── security    
-│    │   │               │   └── exception 
-│    │   │               ├── persistence
-│    │   │               │   └── repository
-│    │   │               ├── presentation
-│    │   │               │   └── controller 
-│    │   │               └── DigicertApplication.java
-│    └── └── resources
-│           └── application.properties
-│
-├── Dockerfile
-├── mvnw
-├── mvnw.cmd
-└── pom.xml					
-		
+	backend/
+	├── src/
+	│    ├── main/
+	│    │   ├── java/
+	│    │   │   └── com
+	│    │   │       └── ensolvers
+	│    │   │           └── backend
+	│    │   │               ├── ServerApplication
+	│    │   │               ├── application
+	│    │	 │				 │   ├── dto  	    
+	│    │   │               │   ├── mapper     
+	│    │   │               │   └── service   
+	│    │   │               ├── domanin
+	│    │   │               │   ├── entity 	
+	│    │   │               ├── infrastructure
+	│    │   │               │   ├── config 		
+	│    │   │               │   ├── security    
+	│    │   │               │   └── exception 
+	│    │   │               ├── persistence
+	│    │   │               │   └── repository
+	│    │   │               ├── presentation
+	│    │   │               │   └── controller 
+	│    │   │               └── DigicertApplication.java
+	│    └── └── resources
+	│           └── application.properties
+	│
+	├── Dockerfile
+	├── mvnw
+	├── mvnw.cmd
+	└── pom.xml					
+			
 
 
 
