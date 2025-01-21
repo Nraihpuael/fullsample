@@ -57,16 +57,26 @@ frontend/
 ├── public/
 
 │   ├── vite.svg
+
 │   └── ...
+
 ├── src/
+
 │   ├── assets/
+
 |   |   |── logo
+
 │   │   ├── images/
+
 │   ├── components/
+
 │   │   ├── Button.jsx
+
 │   │   └── ...
+
 │   ├── hooks/
 │   ├── lib/
+
 │   ├── pages/
 │   │   ├── Home.jsx
 │   │   └── ...
