@@ -53,71 +53,38 @@ This project includes a backend built with Spring Boot and a frontend built with
 
 
 frontend/
-
 ├── public/
-
 │   ├── vite.svg
-
 │   └── ...
-
 ├── src/
-
 │   ├── assets/
-
 |   |   |── logo
-
 │   │   ├── images/
-
 │   ├── components/
-
 │   │   ├── Button.jsx
-
 │   │   └── ...
-
 │   ├── hooks/
-
 │   ├── lib/
-
 │   ├── pages/
-
 │   │   ├── Home.jsx
-
 │   │   └── ...
-
 │   ├── router/
-
 │   │   ├── AppRouter.jsx
-
 │   │   └── ...
-
 │   ├── services/
-
 │   ├── store/
-
 │   ├── styles/
-
 │   │   ├── base/
-
 │   │       │   ├── reset.css
-
 │   │       │   ├── variables.css
-
 │   │       │   └── ...
-
 │   │       ├── components/
-
 │   │       │   ├── Button.css
-
 │   │       │   └── ...
-
 │   │       ├── pages/
-
 │   │       │   ├── Home.css
-
 │   │       │   └── ...
-
 │   │       └── index.css
-
 │   ├── utils/
 │   ├── validations/
 │   └── main.jsx
@@ -127,49 +94,6 @@ frontend/
 └── vite.config.js
 
 
-client/
-├── public/
-│   ├── vite.svg
-│   └── ...
-├── src/
-│   ├── assets/
-|   |   |── logo
-│   │   ├── images/
-│   ├── components/
-│   │   ├── Button.jsx
-│   │   └── ...
-│   ├── router/
-│   │   ├── AppRouter.jsx
-│   │   └── ...
-│   ├── lib/
-│   │   ├── utils/
-│   │   │   ├── formatDate.js
-│   │   │   └── validation.js
-│   │   ├── services/
-│   │   │   ├── api.js
-│   │   │   └── localStorage.js
-│   │   ├── hooks/
-│   │   │   └── useDebounce.js
-│   │   ├── constants/
-│   │   │   └── appConstants.js
-│   │   └── config/
-│   │       └── appConfig.js
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   └── ...
-│   ├── styles/
-│   │   ├── base/
-│   │       │   ├── reset.css
-│   │       │   ├── variables.css
-│   │       │   └── ...
-│   │       ├── components/
-│   │       │   ├── Button.css
-│   │       │   └── ...
-│   │       ├── pages/
-│   │       │   ├── Home.css
-│   │       │   └── ...
-│   │       └── index.css
-│   ├── main.jsx
 
 backend/
 ├── src/
@@ -202,5 +126,6 @@ backend/
 ├── mvnw.cmd
 └── pom.xml					
 		
+
 
 
