@@ -75,28 +75,49 @@ frontend/
 │   │   └── ...
 
 │   ├── hooks/
+
 │   ├── lib/
 
 │   ├── pages/
+
 │   │   ├── Home.jsx
+
 │   │   └── ...
+
 │   ├── router/
+
 │   │   ├── AppRouter.jsx
+
 │   │   └── ...
+
 │   ├── services/
+
 │   ├── store/
+
 │   ├── styles/
+
 │   │   ├── base/
+
 │   │       │   ├── reset.css
+
 │   │       │   ├── variables.css
+
 │   │       │   └── ...
+
 │   │       ├── components/
+
 │   │       │   ├── Button.css
+
 │   │       │   └── ...
+
 │   │       ├── pages/
+
 │   │       │   ├── Home.css
+
 │   │       │   └── ...
+
 │   │       └── index.css
+
 │   ├── utils/
 │   ├── validations/
 │   └── main.jsx
